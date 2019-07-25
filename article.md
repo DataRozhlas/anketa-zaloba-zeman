@@ -1,68 +1,75 @@
-title: "‚Volba je tajná, nechte se překvapit.‘ Podpoří poslanci ANO kontroverzního publicistu Semína do Rady ČTK?"
-perex: "„Volba je až v červenci, teprve se rozhodnu“ či „nechte se překvapit“. I takové jsou reakce poslanců hnutí ANO, kteří odpovídali v anketě serveru iROZHLAS.cz na dotazy týkající se kritizovaného kandidáta SPD do Rady České tiskové kanceláře (ČTK) Michala Semína. Premiér Andrej Babiš na ně v úterý apeloval, aby Semína nepodpořili. Koaliční ČSSD se totiž proti němu ostře ohradila. Z došlých odpovědí vyplývá, že pro vládní poslance je to citlivé téma a většina z nich o nadcházející volbě nechce mluvit."
-coverimg:
-coverimg_note: ""
+title: "‚Ani prezident si z Ústavy nemá dělat podložku pod nohu.‘ Podpoří poslanci žalobu na Zemana?"
+perex: "Do sněmovny putuje ústavní žaloba na prezidenta Miloše Zemana. Dokument o pětačtyřiceti stránkách ve středu schválil Senát. Server iROZHLAS.cz proto oslovil všech 200 poslanců, tedy včetně vládních klubů, premiéra a některých ministrů, a ptal se, jestli návrh podpoří. Pokud by žaloba prošla, posoudí ji Ústavní soud. Odpovědi zákonodárců přinášíme v rozsáhlé anketě."
+coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/m_zeman_2_190529-080540_mda.jpg?itok=Ml-JPCiD"
+coverimg_note: "Foto <a href=\"https://www.irozhlas.cz/michaela-danelova-5270376\">Michaela Danelová</a>"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader, nopic] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
 
-Buď Semín, nebo konec koalice. S takovou zkraje týdne přišel šéf ČSSD Jan Hamáček, který zvolení místopředsedy spolku Akce D.O.S.T. Michala Semína s pomocí hlasů ANO označil za nepřijatelné. Kontroverzní publicista v prvním kole volby získal 83 hlasů, ke zvolení mu tak chybělo jen šest.
+„Samozřejmě, že ano. Ani prezident si z Ústavy nemá dělat podložku pod nohu u stolu,“ reagoval na dotaz serveru iROZHLAS.cz například bývalý šéf lidovců Pavel Bělobrádek. Podobně soudí i jeho další straničtí kolegové. „Mám v plánu žalobu podpořit, protože si myslím, že ty důvody jsou opravdu vážné,“ řekl zas někdejší ministr Marian Jurečka.
 
-A přestože volba byla tajná, je jasné, že ruku pro museli zvednout i někteří vládní zákonodárci. Babiš to ovšem odmítl. Řekl, že jeho hnutí kandidáta navrženého hnutím Tomia Okamury nevolilo a volit nebude.
+<right>
+<h3>Ústavní žaloba</h3>
 
-Server iROZHLAS.cz proto všechny poslance hnutí ANO obeslal s dotazem, zda považují Semína za problematického kandidáta a zda ho případně v nadcházejícím druhém kole volby, která se uskuteční v červenci, podpoří.
+<p>Senát schválil tzv. širší návrh ústavní žaloby, kterou připravili senátoři pod vedením předsedy klubu Senátor 21 Václava Lásky. Prezidentovi vytýkají osm případů jednání od nečinnosti v případě jmenování či odvolání členů vlády po vystupování v rozporu s oficiální zahraniční politikou Česka.</p>
 
-Z celkem 78 zákonodárců jich na zaslané dotazy reagovalo 39, tedy polovina. Mnozí až po několika urgencích. Většina došlých odpovědí byla ovšem vyhýbavá. „Jelikož je hlasování tajné, tak se nevyjadřuji k žádným kandidátům,“ reagoval třeba Josef Hájek.
+<p>Výtky se týkají i jeho chování v minulém volebním období. Vedle toho byla na stole užší varianta, kterou připravili senátoři ODS. Ta se zabývala jen odvoláním ministra kultury Staňka.</p>
+</right>
 
-Podobně se vyjádřila také třeba Monika Červíčková: „Volba do Rady ČTK není na pořadu této schůze. Omlouvám se, ale tajné volby nebudu komentovat.“ Na dotazy odpověděla přitom krátce poté, co Babiš na své zákonodárce apeloval, aby Semína do Rady ČTK nepodpořili.
+Podobný pohled mají i další opoziční poslanci. Například Věra Kovářová z hnutí Starostové a nezávislí (STAN) uvedla, že návrh žaloby rovněž podpoří. „Jeví se mi jako dostatečně odůvodněný a zralý,“ napsala v SMS zprávě s tím, že by měl iniciativu podpořit i sám prezident Miloš Zeman.
+
+„Pokud si je pan prezident jistý, že k vybočení nedošlo, měl by sám váhající poslance vyzvat, aby pro vyslovení souhlasu zvedli ruku. Když se žádného protiústavního jednání nedopustil, nemá se přece čeho bát,“ doplnila Kovářová.
+
+## 114 poslanců
+
+To jsou jen některé z odpovědí, který server iROZHLAS.cz sesbíral v rozsáhlé anketě mezi poslanci. Všechny reakce si můžete přečíst v následujícím přehledu. Z oslovených 200 zákonodárců jich vyjádření poskytlo celkem 114. Aby žaloba dolní komorou prošla, podpořit by ji musely – podobně jako v Senátu – tři pětiny všech poslanců, tedy celkem 120 zákonodárců.
 
 <wide>
   <div id="anketa-wrapper"></div>
 </wide>
 
-Z reakcí vládních zákonodárců navíc vyplývá, že o Semínovi nechtějí mluvit. Třeba hlavní manažer hnutí Jan Richter na dotazy zaslané skrze SMS zprávu vůbec nereagoval, a úspěšná nebyla ani snaha kontaktovat ho telefonicky. „Tak vám strašně děkuji za ten dotaz a mějte se hezky,“ položil telefon ihned po položení otázky.
+Piráti si zatím nechávají čas na rozmyšlenou. Poradit se a prostudovat celý materiál chtějí nejdříve na jednání klubu. „Ústavní kroky prezidenta Zemana jsou často na hraně či za hranou Ústavy. Proto je nutné to brát vážně,“ vysvětlil šéf pirátských zákonodárců Jakub Michálek. Zároveň však dodal, že by se podle něj měly řešit spíš reálné problémy, než „torpédovat“ Ústavní soud a vyvolávat politické krize.
 
-Že je téma pro poslance hnutí ANO citlivé, potvrzuje také reakce Přemysla Mališe. „Volba je tajná. Nechte se, prosím, překvapit. Kandidát neprojde, neboť už vyhrocená situace nikoho nebaví. Mluvit o tom opravdu nechci. Mějte pochopení,“ uvedl.
+Na jednání poslaneckého klubu zatím čeká také ODS. Podle předsedy Petra Fialy je ale už nyní téměř jasné, že jeho strana dá ve sněmovně žalobě zelenou. „Velmi pravděpodobně návrh ústavní žaloby podpořím. O dalším postupu se poradíme na jednání poslaneckého klubu,“ popsal.
 
-## Zahlcená schránka
+Ruku pro zvedne také TOP 09. „Je to pro republiku opravdu nebezpečný stav, když nejsou jasné meze pravomoci prezidenta. To, jak koná, jasně překračuje Ústavu. Očividně v jiných zemích toto není nutné, ale u nás je třeba to jasně objasnit,“ uvedl Karel Schwarzenberg.
 
-Důvodem, proč někteří poslanci hnutí ANO o svém postoji odmítají mluvit, může být také iniciativa na podporu jednoho ze Semínových protikandidátů, analytika nových médií Josefa Šlerky. Ta vyzývá k tomu, aby lidé nespokojení s kandidátem SPD poslancům psali e-maily.
+## Láska jako antiZeman
 
-Na plnou poštovní schránku kvůli této iniciativě si stěžoval třeba Petr Sadovský. „Já pana Semína neznám a ani se nemyslím, že bych ho podporoval v prvním kole. Navíc je to tajná volba. Ve chvíli, kdy jsem zavalený stovkami e-mailů, tak se k tomu opravdu nechci vyjadřovat,“ napsal zákonodárce.
+Klíčové ovšem budou hlasy vládních poslanců, tedy hnutí ANO a ČSSD. Podle šéfa poslanců ANO Jaroslava Faltýnka není žaloba na prezidenta na pořadu dne. „Až to bude na stole, tak to budeme řešit,“ napsal pro iROZHLAS.cz v SMS zprávě. Sám Faltýnek ale ruku pro nezvedne. „Já to rozhodně nepodpořím a předpokládám, že ani náš klub,“ doplnil.
 
-Někteří poslanci argumentovali také tím, že volba do orgánu ČTK není zatím na pořadu dne či že Semína ani neznají. „Budu se rozhodovat, až ta červencová volba nastane. Jednotlivé kandidáty neznám a musím se s nimi seznámit,“ řekl redakci Jiří Bláha.
+A stejně mluví i někteří další poslanci ANO. „Žalobu nepokládám za řádně opodstatněnou,“ reagoval třeba nový člen dolní komory Ondřej Babka, který nahradil Radku Maxovou, zvolenou v květnu do europarlamentu. Jeho kolegyně Barbora Kořanová v iniciativě zas vidí snahu o zviditelnění senátora Václava Lásky (SEN 21), kterému příští rok končí mandát.
 
-Přestože někteří poslanci ANO o svém postoji mlžili, nikdo z nich podporu Semínovi výslovně nevyjádřil.
+„Jistě si uvědomuje, že jako ‚antiZeman‘ má v Praze šance vyšší,“ uvedla Kořanová.
+Část ze zákonodárců ANO je ale zatím na vážkách. Například Věra Adámková se chce s celým materiálem nejdříve seznámit a až pak se rozhodne. Kdo naopak o podpoře uvažuje, je Rostislav Vyzula. Rozmyslí se podle svých slov až po dovolené.
 
-<div class="b-inline b-inline--right"><div class="b-inline__wrap"><div class="b-inline__content"><div class="text-sm">
-    <p>
-    <b>Volba do Rady ČTK</b>
-    </p>
-  <p>
-    </p><p>Sedmičlenná Rada ČTK je orgán, jehož prostřednictvím veřejnost uplatňuje své právo kontroly veřejnoprávní agentury. Sněmovna zatím na dvě místa v radě, která se uvolní 20. června, nikoho nezvolila. Ke zvolení bylo nutných 89 hlasů, Semín jich v tajné volbě získal 83. Do druhého kola postoupili také zastupitel hnutí ANO v Praze 3 David Soukup, ředitel Nadačního fondu nezávislé žurnalistiky Josef Šlerka, nominovaný Piráty a KDU-ČSL, a bývalý předseda rady Tomáš Mrázek, navržený ODS.
-    <p></p>
-</div></div></div></div>
+Velkou podporu autoři žaloby nenajdou zřejmě ani mezi sociálními demokraty. Z oslovených poslanců vládní strany – kteří na dotazy serveru iROZHLAS.cz reagovali – by ruku pro zvedla pouze Alena Gajdůšková. „Pokud jde o nekonání ve věci výměny ministra, tak samozřejmě ten krok je odpovídající a ztotožňuji se s ním,“ řekla.
 
-Původně se o nových členech Rady mělo rozhodovat už tuto středu, z podnětu šéfa poslaneckého klubu Jaroslava Faltýnka se ale volba posunula až na červenec. Faltýnek to zdůvodnil snahou o „zklidnění situace“. Mimochodem: sám na dotazy serveru IROZHLAS.cz i přes opakované urgence neodpověděl.
+![senátor Václav Láska (SEN21)](https://www.irozhlas.cz/sites/default/files/styles/zpravy_fotogalerie_medium/public/uploader/laska_190709-153444_kno.jpg?itok=S4EtKMC5)
+_Senátor Václav Láska (SEN21), který je iniciátorem ústavní žaloby na prezidenta_
 
-## Zhoubné názory?
+Třeba Jan Birke, Jaroslav Foldyna či Petr Dolínek naopak uvedli, že senátní iniciativu nepodpoří. „Prezident musí mít jasné mantinely od Ústavního soudu, aby věděl, že má ihned konat, když mu premiér předloží návrh na změnu ve vládě. Tato široká žaloba není něco, co jsem ale schopný v tuto chvíli schválit,“ vysvětlil Dolínek.
 
-Mezi zákonodárci ANO se ale najdou i tací, kteří se jasně postavili proti zvolení Semína. Jde třeba o ministra zdravotnictví Adama Vojtěcha (za ANO), hejtmany Ivo Vondráka a Ladislava Oklešťka, poslance Miloslava Janulíka, Radka Zlesáka či Rostislava Vyzulu.
+Dolínek tak narážel na to, že žaloba vedle odvolání ministra kultury Antonína Staňka (ČSSD) obsahuje i další možné prohřešky prezidenta, které se týkají minulého volebního období. A to je důvod, proč návrh podle šéfa ČSSD Jana Hamáčka v drtivé většině v horní komoře nepodpořili senátoři sociální demokracie. Řekl to ve čtvrtek po jednání grémia.
 
-„Nepodpořím tohoto kandidáta. Nejvíce mi vadí jeho antisemitismus. Takový postoj je zhoubný a s takovými názory nemůže někdo působit ve vážené instituci ČTK,“ napsal redakci Vyzula. Semína odmítla volit také třeba bývalá ministryně Karla Šlechtová. Jasné „ne“ řeklo podle došlých odpovědí z ANO celkem 13 poslanců.
+## KSČM: Je to paskvil
 
-Proti volbě Semína se postavila mimo jiné Federace židovských obcí, podle níž vystupuje antijudaisticky. Ve sněmovně minulý týden některé jeho texty a výroky kritizovali také Piráti či ODS, když se uskutečnilo první kolo volby. Poslankyně Olga Richterová (Piráti) v souvislosti s nimi nařkla Semína ze šíření nenávisti a šéf poslanců ODS Zbyněk Stanjura mluvil o spikleneckých teoriích.
+Odmítavý postoj mají zatím také komunisté, kteří menšinovou vládu tolerují. Šéf strany Vojtěch Filip dokonce návrh skupiny senátorů označil za „právní paskvil.“ Předseda klubu Pavel Kováčik je pak přesvědčený, že prezident Ústavu neporušuje. „To, že mu jeho rozhodnutí trvá déle, že je uvážlivější ve svých rozhodnutích, to mu slouží spíš ke cti,“ reagoval.
 
-Některé Semínovy výroky sesbíral pořad České televize Newsroom ČT24, přečíst si je můžete v následujícím twitterovém příspěvku:
+<left>
+<h3>Žaloba má 8 bodů</h3>
+<p>Návrh žaloby je založen na tom, že Zeman svými skutky Ústavu porušuje. Vytýká se mu osm případů – od nečinnosti v případě jmenování či odvolání členů vlády po vystupování v rozporu s oficiální zahraniční politikou Česka. Podnětem k žalobě bylo údajné ovlivňování justice prezidentem a zaměstnanci Hradu.</p>
 
-<div class="embed">
-<blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">Poslanecká sněmovna dnes do Rady ČTK žádného nového člena nezvolila. Nejvíc hlasů, 83, ale získal Michal Semín. Na jeho kontroverzní výroky dnes upozorňovali i opoziční poslanci. Některé připomínáme i my. Objevily se v rozhovorech pro Parlamentní listy a časopis Reflex. <a href="https://t.co/1ynKRC5iIG">pic.twitter.com/1ynKRC5iIG</a></p>&mdash; Newsroom ČT24 (@NewsroomCT24) <a href="https://twitter.com/NewsroomCT24/status/1136299588598620160?ref_src=twsrc%5Etfw">June 5, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<p>Nejnověji k případům přibylo Zemanovo otálení s odvoláním Staňka a jmenováním Michala Šmardy (ČSSD).
+Smyslem žaloby bylo podle iniciátorů návrhu především vymezit prezidentovi mantinely výkonu jeho úřadu. Zeman už dříve označil návrh žaloby za ústavní negramotnost a odmítl, že by jeho kroky byly v rozporu s Ústavou.</p>
+</left>
 
-Semín obvinění, že je antisemitou nebo že šíří nenávist, odmítl. Minulý týden ČTK řekl, že je z teologického hlediska kritický k nekatolickým náboženstvím, ale je stoupencem náboženské snášenlivosti. Dlouhodobě podle svých slov vystupuje jako představitel katolického tradicionalismu.
+Ostřejší rétoriku zvolil také poslanec SPD a předseda výboru pro bezpečnost Radek Koten. Kritizuje ale především ČSSD. „Nedokážu si představit, že by v parlamentních prázdninách pan prezident konal ještě rychleji. A dokonce odjel z dovolené, kterou měl plánovanou na Vysočině,“ zdůvodnil, proč žalobu nepodpoří. Podle něj si sociální demokraté v čele s Janem Hamáčkem „statečně kopou svůj hrob“.
 
-V úterý večer se kvůli napětí v koalici sešla také koaliční rada. Zástupci ANO a ČSSD se na schůzce dohodli, že personální nominace ve sněmovně a volby do sněmovních i mimosněmovních orgánů spolu budou předem řešit předsedové poslaneckých klubů Jaroslav Faltýnek a Jan Chvojka, aby se příště předešlo rozporům.
+Server iROZHLAS.cz oslovil také poslance, kteří ve sněmovně nyní vystupují jako takzvaně nezařazení. Jde třeba o Václava Klause mladšího, kterého vyloučila ODS ze svých řad letos v březnu. Krátce na to založil vlastní hnutí s názvem Trikolóra. Vyjádření však odmítl s tím, že je na dovolené.
 
+Jana Nevludová, původně zvolená za SPD, zas řekla, že žalobu nepodpoří: „Návrh rozhodně nepodpořím. Že někteří senátoři neumí ‚rozdýchat‘ jeho druhé vítezství v demokratických volbách, je jejich problém. Pan prezident jedná v rámci Ústavy.“
+
+Ústavní žalobu na prezidenta schválil Senát ve středu na neveřejném zasedání. Hlasovalo pro ni 48 ze 75 přítomných senátorů, potřeba bylo nejméně 45 hlasů. Proti bylo 20 senátorů, sedm se hlasování zdrželo.
 

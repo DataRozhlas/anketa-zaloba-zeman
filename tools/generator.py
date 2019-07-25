@@ -15,5 +15,3 @@ d.fillna('', inplace=True)
 #%%
 with open('./data/data.json', 'w', encoding='utf-8') as f:
     f.write(json.dumps(list(d.to_dict(orient='index').values()),  ensure_ascii=False))
-
-#%%

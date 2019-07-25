@@ -25,6 +25,8 @@
   background-color: #F5F5F5;
   margin-bottom: 3px;
   font-size: 85%;
+  color: black !important;
+  font-style: normal !important;
 }
 
 .jmeno {
@@ -43,18 +45,41 @@
  }
 
  .blue {
-  color: #2b8cbe;
+  color: #31a354;
   font-weight: bold;
  }
 
- .gray {
-   color: #636363;
+ .lgray {
+   color: #737373;
    font-style: italic;
  }
 
  .gray_n {
-  color: #636363;
+  color: #525252;
   font-weight: bold;
 }
 
+.red_b {
+  background-color: #fcae91;
+}
 
+.blue_b {
+  background-color: #bae4b3;
+}
+
+.gray_b {
+  background-color: #969696;
+}
+
+.gray {
+  font-weight: bold;
+  color: #525252;
+}
+
+.row-main--narrow img {
+  width: 100%;
+}
+
+norm {
+  font-weight: normal !important;
+}

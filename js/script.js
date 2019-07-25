@@ -10,15 +10,15 @@ if (window.location.hostname === "localhost") {
 
 function whatCol(val) {
   if (val === "NEVÍM") {
-    return "gray_n";
+    return "gray";
   } else if (val === "NE") {
     return "red"
   } else if (val === "ANO") {
     return "blue"
   } else if (val === "") {
-    return "gray"
+    return "lgray"
   } else {
-    return "gray_n"
+    return "lgray"
   }
 };
 
@@ -29,7 +29,7 @@ function onLoad(e) {
       {data.map(el => (
         <div className="respondent">
           <img className="portret" src={`${host}/anketa-zaloba-zeman/img/${el.f}`} alt={el.jm} />
-          <div className="bio">
+          <div className={`${whatCol(el.o)}_b bio`}>
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
             <div className="strana">{el.s}</div>
           </div>
