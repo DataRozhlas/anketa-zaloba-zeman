@@ -1,4 +1,4 @@
-title: "‚Ani prezident si z Ústavy nemá dělat podložku pod nohu.‘ Podpoří poslanci žalobu na Zemana?"
+title: "‚Prezident si z Ústavy nemá dělat podložku pod stůl.‘ Podpoří poslanci žalobu na Zemana?"
 perex: "Do sněmovny putuje ústavní žaloba na prezidenta Miloše Zemana. Dokument o pětačtyřiceti stránkách ve středu schválil Senát. Server iROZHLAS.cz proto oslovil všech 200 poslanců, tedy včetně vládních klubů, premiéra a některých ministrů, a ptal se, jestli návrh podpoří. Pokud by žaloba prošla, posoudí ji Ústavní soud. Odpovědi zákonodárců přinášíme v rozsáhlé anketě."
 coverimg: "https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/m_zeman_2_190529-080540_mda.jpg?itok=Ml-JPCiD"
 coverimg_note: "Foto <a href=\"https://www.irozhlas.cz/michaela-danelova-5270376\">Michaela Danelová</a>"
